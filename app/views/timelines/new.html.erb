@@ -1,0 +1,15 @@
+<h1>New Event</h1>
+
+<%= form_for :event, url: events_path do |e| %>
+  <p>
+      <%= e.label :event %><br>
+      <%= e.text_field :event %>
+  </p>
+  <p>
+      <%= e.label :summary %><br>
+      <%= e.text_area :summary %>
+  </p>
+  <p>
+      <%= e.submit %>
+  </p>
+<% end %>

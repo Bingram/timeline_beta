@@ -1,0 +1,30 @@
+ApplicationRecord is the model for an object stored in the database tables
+
+Objects are saved/altered/managed by ApplicationControllers
+
+ApplicationControllers interact with ruby scripts/objects for logic and behavior
+
+
+
+
+
+
+
+
+
+
+
+
+Resources==========================
+
+https://www.airpair.com/ruby-on-rails/posts/ember-vs-angular-with-rails#8-2-angular
+
+http://angular-rails.com/index.html
+
+http://guides.rubyonrails.org/getting_started.html#the-first-form
+
+https://github.com/gitlabhq/gitlabhq/tree/b7e6da5a4baf1e6ac0e6d62ef6ff5a09de44d6f1/app
+
+https://www.tutorialspoint.com/ruby-on-rails/rails-quick-guide.htm
+
+http://imulus.github.io/retinajs/

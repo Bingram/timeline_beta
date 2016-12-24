@@ -1,0 +1,16 @@
+
+Ruby on rails
+HAML
+
+
++Examples
+http://guides.rubyonrails.org/getting_started.html
+https://github.com/gitlabhq/gitlabhq
+
+
++Best practices
+https://www.airpair.com/rspec/posts/gert
+http://rubyonrails.org/doctrine/#no-one-paradigm
+
+misc.
+https://github.com/redmine/redmine
